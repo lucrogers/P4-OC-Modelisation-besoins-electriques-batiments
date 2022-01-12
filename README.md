@@ -1,4 +1,4 @@
-# P4-OC-Modelisation-besoins-electriques-batiments
+# P4 - Modélisation des besoins électriques des batiments de la ville de Seattle
 
 ## Compétences évaluées
 - Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
