@@ -24,7 +24,11 @@ Il nous est également demandé d'évaluer la pertinence de l'ENERGY STAR Score,
 - La variable ENERGY STAR Score a une influence positive non négligeable sur la prédiction des émissions de CO2
 
 ## Travail réalisé
--
+- Préparation du jeu de données (nettoyage, jointures)
+- Analyse exploratoire
+- Feature engineering
+- - Création de nouvelles variables
+- - 
 
 
 ## Compétences évaluées
