@@ -27,7 +27,7 @@ Il nous est également demandé d'évaluer la pertinence de l'ENERGY STAR Score,
 - Préparation du jeu de données (nettoyage, jointures)
 - Analyse exploratoire
 - Feature engineering
-- - Création de nouvelles variables
+ - Création de nouvelles variables
 - - 
 
 
