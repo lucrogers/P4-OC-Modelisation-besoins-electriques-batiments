@@ -18,7 +18,7 @@ Dans ce notebook, 4 modèles de régression sont successivement entraînés, du 
 
 Il nous est également demandé d'évaluer la pertinence de l'ENERGY STAR Score, un indice censé évaluer l'efficacité énergétique du bâtiment mais fastidieux à calculer.
 
-Conclusions: le modèle retenu diffère selon la cible étudiée:
+**Conclusions:** le modèle retenu diffère selon la cible étudiée:
 - Random Forest pour la consommation électrique (score R² = 0,672)
 - Réseau de neurones pour les émissions de CO2 (score R² = 0,674)
 - La variable ENERGY STAR Score a une influence positive non négligeable sur la prédiction des émissions de CO2
