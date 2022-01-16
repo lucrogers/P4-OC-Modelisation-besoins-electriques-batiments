@@ -28,7 +28,8 @@ Il nous est également demandé d'évaluer la pertinence de l'ENERGY STAR Score,
 - Analyse exploratoire
 - Feature engineering
  - Création de nouvelles variables
-- - 
+ - zd
+ 
 
 
 ## Compétences évaluées
