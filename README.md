@@ -5,6 +5,8 @@ Projet n°4 : "Anticipez les besoins en consommation électrique de bâtiments"
 
 - Source des données : https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv
 
+![alt text](https://user.oc-static.com/upload/2019/02/24/15510245026714_Seattle_logo_landscape_blue-black.png)
+
 ## Introduction du projet
 La ville de Seattle s'est fixée comme objectif d'être une ville neutre en émissions carbone d'ici 2050. A ce titre elle souhaiterait créer un modèle qui permette de prédire les besoins énergétiques et les émissions de CO2 engendrés par les bâtiments à venir.
 
