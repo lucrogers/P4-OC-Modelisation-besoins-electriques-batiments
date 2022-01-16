@@ -14,7 +14,7 @@ Dans ce notebook, 4 modèles de régression sont successivement entraînés, du 
 - k-NN
 - Régression Lasso
 - Random Forest
-- Réseau de neurones
+- Réseau de neurones (keras)
 
 Il nous est également demandé d'évaluer la pertinence de l'ENERGY STAR Score, un indice censé évaluer l'efficacité énergétique du bâtiment mais fastidieux à calculer.
 
@@ -27,10 +27,18 @@ Il nous est également demandé d'évaluer la pertinence de l'ENERGY STAR Score,
 - Préparation du jeu de données (nettoyage, jointures)
 - Analyse exploratoire
 - Feature engineering
- - Création de nouvelles variables
- - zd
- 
-
+  - Création de nouvelles variables
+  - Transformation des variables asymétriques
+  - Encodage des variables catégorielles
+  - Scaling si nécessaire
+  - Réduction de dimensions (ACP ou propre au modèle choisi)
+- Entraînement des différents modèles de régression
+  - Split train/test
+  - Validation croisée 5 folds
+  - Grille de recherche d'hyperparamètres
+  - Visualisation des scores optimaux
+  - Mise en avant des variables significatives
+- Comparaison et conclusions
 
 ## Compétences évaluées
 - Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
